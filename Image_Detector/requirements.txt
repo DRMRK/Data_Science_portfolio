@@ -234,7 +234,7 @@ tornado==6.0.4
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1601259122622/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1600712679583/work
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
 voila==0.2.3
