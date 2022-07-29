@@ -104,7 +104,7 @@ lxml==4.5.1
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1600368268892/work
 matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-base_1600159125001/work
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
