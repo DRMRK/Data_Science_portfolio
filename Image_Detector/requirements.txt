@@ -117,7 +117,7 @@ msrestazure==0.6.4
 multipledispatch==0.6.0
 murmurhash==1.0.0
 nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1598558657104/work
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbdev==1.1.0
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1601342677072/work
